@@ -53,3 +53,27 @@ button:hover {
   color: #fff;
   text-decoration: underline;
 }
+
+.footer {
+  background: #111;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+}
+
+.social-icons {
+  margin: 10px 0;
+}
+
+.social-icons img {
+  width: 30px;
+  margin: 0 10px;
+  transition: 0.3s;
+}
+
+.social-icons img:hover {
+  transform: scale(1.2);
+}
+
+
