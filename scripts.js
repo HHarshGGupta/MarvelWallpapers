@@ -1,6 +1,6 @@
 const wallpapers = {
   ironman: [
-    'Wallpapers/ironman/iron1.jpg',
+    'ironman/iron1.jpg',
     'Wallpapers/ironman/iron2.jpg',
     'Wallpapers/ironman/iron3.jpg',
     'Wallpapers/ironman/iron4.jpg',
