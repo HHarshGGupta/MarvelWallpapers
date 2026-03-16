@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #111;
+  color: #fff;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  background: #e62429;
+  padding: 1rem;
+}
+
+nav {
+  margin: 1rem;
+}
+
+button {
+  background-color: #333;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background-color: #e62429;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.wallpaper {
+  margin: 10px;
+}
+
+.wallpaper img {
+  width: 200px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.download-btn {
+  display: block;
+  margin-top: 5px;
+  color: #fff;
+  text-decoration: underline;
+}
