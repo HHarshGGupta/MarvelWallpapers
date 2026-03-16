@@ -1237,8 +1237,8 @@ const wallpapers = {
     'Wallpapers/Nova/images1.jpg'
   ],
   AdamWarlock: [
-    'Wallpapers/AdamWarlock/images.jpg',
-    'Wallpapers/AdamWarlock/images1.jpg'
+    'AdamWarlock/images.jpg',
+    'AdamWarlock/images1.jpg'
   ]
   // Add more characters and paths
 };
